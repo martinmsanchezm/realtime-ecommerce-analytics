@@ -95,7 +95,7 @@ See [`PROGRESS.md`](PROGRESS.md) for the detailed sprint-by-sprint log.
 ### 1. Clone & configure
 
 ```bash
-git clone https://github.com/nensanc/realtime-ecommerce-analytics.git
+git clone https://github.com/martinmsanchezm/realtime-ecommerce-analytics.git
 cd realtime-ecommerce-analytics
 cp .env.example .env
 ```

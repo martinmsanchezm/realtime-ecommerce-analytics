@@ -131,5 +131,5 @@ render_fraud_table(fraud_df)
 st.divider()
 st.caption(
     "Built with Apache Kafka · PySpark Structured Streaming · PostgreSQL · Streamlit"
-    "  ·  [GitHub](https://github.com/nensanc/realtime-ecommerce-analytics)"
+    "  ·  [GitHub](https://github.com/martinmsanchezm/realtime-ecommerce-analytics)"
 )
